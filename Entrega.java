@@ -7,6 +7,7 @@ import java.util.function.IntPredicate;
 import java.util.function.Predicate;
 import java.util.Set;
 
+import 
 /*
  * Aquesta entrega consisteix en implementar tots els mètodes annotats amb el comentari "// TO DO".
  *
